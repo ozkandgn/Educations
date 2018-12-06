@@ -1,0 +1,2 @@
+Projenin amacý lise öðrencilerine C eðitimi vermektir.
+The aim of the project is to give high school students C education.
